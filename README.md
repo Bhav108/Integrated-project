@@ -1,5 +1,6 @@
 # Integrated-project - Bhavana Harriparsad
 This project focuses on the insurance industry in the African markets. As there is < 1% that are insured in Africa, there is large room to increase revenue.
+However, there are various other factors that need to be considered i.e. household income, unemployment rate, to name a few.
 
 The project began by gaining insights into the market to understand the problem and define a problem statement.
 A problem landscape was created to better understand the problem and identify the necessary resources required.
